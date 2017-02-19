@@ -1,2 +1,2 @@
-hello world
-This is Shubham, a non tech guy trying to be a web developer . Getting started on Github . Wish me Luck for my journey.
+Hey Everybody.
+This is Shubham. A Non- Tech Guy getting started in tech industry. Wish me luck.
